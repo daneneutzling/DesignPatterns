@@ -1,24 +1,24 @@
 package Interpreter;
 
-public class TresDigitosRomano extends NumeroRomanoInterpreter {
+public class ThreeDecimalDigits extends RomanNumber {
     @Override
-    public String um() {
+    public String one() {
         return "C";
     }
     @Override
-    public String quatro() {
+    public String four() {
         return "CD";
     }
     @Override
-    public String cinco() {
+    public String five() {
         return "D";
     }
     @Override
-    public String nove() {
+    public String nine() {
         return "CM";
     }
     @Override
-    public int multiplicador() {
+    public int multiplier() {
         return 100;
     }
 }

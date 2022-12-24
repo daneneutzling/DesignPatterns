@@ -1,24 +1,24 @@
 package Interpreter;
 
-public class QuatroDigitosRomano extends NumeroRomanoInterpreter {
+public class FourDecimalDigit extends RomanNumber {
     @Override
-    public String um() {
+    public String one() {
         return "M";
     }
     @Override
-    public String quatro() {
+    public String four() {
         return " ";
     }
     @Override
-    public String cinco() {
+    public String five() {
         return " ";
     }
     @Override
-    public String nove() {
+    public String nine() {
         return " ";
     }
     @Override
-    public int multiplicador() {
+    public int multiplier() {
         return 1000;
     }
 }
