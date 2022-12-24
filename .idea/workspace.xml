@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fce4c54-d88a-4099-9124-135223d6075d" name="Changes" comment="Refatoração do Design Pattern Interpreter" />
+    <list default="true" id="2fce4c54-d88a-4099-9124-135223d6075d" name="Changes" comment="Refatoração do Main com menu, chamando o Design Pattern escolhido pelo usuário" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/danen/IdeaProjects/DesignPatterns/src/Interpreter"
+    "last_opened_file_path": "C:/Users/danen/IdeaProjects/DesignPatterns/src/Visitor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -95,7 +95,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671849470308</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refatoração do Design Pattern Prototype">
+      <created>1671849515131</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671849515131</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Refatoração do Design Pattern Visitor">
+      <created>1671849574702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671849574702</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Refatoração do Main com menu, chamando o Design Pattern escolhido pelo usuário">
+      <created>1671849769461</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671849769461</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +136,9 @@
     <MESSAGE value="Refatoração do Design Pattern Chain Of Responsability" />
     <MESSAGE value="Refatoração do Design Pattern Composite" />
     <MESSAGE value="Refatoração do Design Pattern Interpreter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refatoração do Design Pattern Interpreter" />
+    <MESSAGE value="Refatoração do Design Pattern Prototype" />
+    <MESSAGE value="Refatoração do Design Pattern Visitor" />
+    <MESSAGE value="Refatoração do Main com menu, chamando o Design Pattern escolhido pelo usuário" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refatoração do Main com menu, chamando o Design Pattern escolhido pelo usuário" />
   </component>
 </project>
