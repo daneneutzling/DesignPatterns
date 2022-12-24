@@ -1,6 +1,6 @@
 package Composite;
 
-public class produto implements item{
+public class produto implements item {
 
     private String nome;
     private double preco;
